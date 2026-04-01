@@ -27,7 +27,7 @@ jobs:
           # 定义 URL 列表 (使用 raw 链接以便直接下载文本)
           URLS=(
             "https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore"
-            "https://raw.githubusercontent.com/github/gitignore/main/community/Golang/Go.AllowList.gitignore"
+            "https://raw.githubusercontent.com/github/gitignore/main/Go.gitignore"
             "https://raw.githubusercontent.com/github/gitignore/main/Global/Windows.gitignore"
             "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
           )
