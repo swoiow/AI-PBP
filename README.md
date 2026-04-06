@@ -6,7 +6,7 @@
 
 - **Artifact Orchestration**
     - Use `pybuild.py` as the industrial-grade build engine. It replaces traditional Makefiles to manage environment validation, path resolution, and PyInstaller synthesis in a high-cohesion, Pythonic manner.
-    - 使用 `pybuild.py` 作为工业级构建引擎。它通过高内聚的 Python 化方式替代了传统的 Makefile，用于管理环境校验、路径解析及 PyInstaller 综合打包。
+    - 使用 `pybuild.py` 作为构建引擎。它通过 Python 化方式替代了传统的 Makefile，用于管理环境校验、路径解析及 PyInstaller 综合打包。
 
 - **AI Agent Context: AGENT.md**
     - This file is strictly reserved for Python-specific context. It serves as the primary "Source of Truth" for AI Agents regarding project internal logic, coding standards, and dependency graphs.
